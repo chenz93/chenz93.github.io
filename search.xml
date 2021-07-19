@@ -8,7 +8,7 @@
       <link href="/posts/1.html"/>
       <url>/posts/1.html</url>
       
-        <content type="html"><![CDATA[<p>这是第一篇用语雀写的博客</p><p>下面是图片 阿里云图床<br><img src="https://cdn.nlark.com/yuque/0/2021/jpeg/21996625/1626696523212-b839afc2-3d03-45df-902b-0e7789f34bd7.jpeg#align=left&display=inline&height=960&margin=%5Bobject%20Object%5D&name=&originHeight=960&originWidth=960&size=0&status=done&style=none&width=960"></p>]]></content>
+        <content type="html"><![CDATA[<p>这是第一篇用语雀写的博客</p><p>下面是图片 阿里云图床<br><img src="%5Bhttps://chenz93-images.oss-cn-hangzhou.aliyuncs.com/img/IMG_4239.JPG">](<a href="https://chenz93-images.oss-cn-hangzhou.aliyuncs.com/img/IMG_4239.JPG">https://chenz93-images.oss-cn-hangzhou.aliyuncs.com/img/IMG_4239.JPG</a>))</p>]]></content>
       
       
       
