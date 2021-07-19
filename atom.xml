@@ -6,7 +6,7 @@
   <link href="https://chenz93.github.io/atom.xml" rel="self"/>
   
   <link href="https://chenz93.github.io/"/>
-  <updated>2021-07-19T12:54:17.157Z</updated>
+  <updated>2021-07-19T15:55:54.919Z</updated>
   <id>https://chenz93.github.io/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>GAN CFOP教程</title>
+    <link href="https://chenz93.github.io/posts/2.html"/>
+    <id>https://chenz93.github.io/posts/2.html</id>
+    <published>2021-07-19T15:52:06.000Z</published>
+    <updated>2021-07-19T15:55:54.919Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;分享一个用了很久的层先和 CFOP 图片教程&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="魔方" scheme="https://chenz93.github.io/categories/%E9%AD%94%E6%96%B9/"/>
+    
+    
+    <category term="魔方" scheme="https://chenz93.github.io/tags/%E9%AD%94%E6%96%B9/"/>
+    
+    <category term="三阶" scheme="https://chenz93.github.io/tags/%E4%B8%89%E9%98%B6/"/>
+    
+    <category term="CFOP" scheme="https://chenz93.github.io/tags/CFOP/"/>
+    
+    <category term="层先法" scheme="https://chenz93.github.io/tags/%E5%B1%82%E5%85%88%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
     <title>测试第一篇博客</title>
     <link href="https://chenz93.github.io/posts/1.html"/>
     <id>https://chenz93.github.io/posts/1.html</id>
     <published>2021-07-18T14:00:00.000Z</published>
-    <updated>2021-07-19T12:54:17.157Z</updated>
+    <updated>2021-07-19T15:55:54.927Z</updated>
     
     
     <summary type="html">&lt;p&gt;这是第一篇用语雀写的博客&lt;/p&gt;</summary>
