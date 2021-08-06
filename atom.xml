@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>cz的博客</title>
+  <title>cz的博客1</title>
   
   
   <link href="https://chenz93.github.io/atom.xml" rel="self"/>
   
   <link href="https://chenz93.github.io/"/>
-  <updated>2021-07-31T18:28:29.314Z</updated>
+  <updated>2021-08-06T19:02:54.626Z</updated>
   <id>https://chenz93.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://chenz93.github.io/posts/2.html"/>
     <id>https://chenz93.github.io/posts/2.html</id>
     <published>2021-07-19T15:52:06.000Z</published>
-    <updated>2021-07-31T18:28:29.314Z</updated>
+    <updated>2021-08-06T19:02:54.626Z</updated>
     
     
     <summary type="html">&lt;p&gt;分享一个用了很久的层先和 CFOP 图片教程 2222&lt;/p&gt;</summary>
@@ -46,7 +46,7 @@
     <link href="https://chenz93.github.io/posts/1.html"/>
     <id>https://chenz93.github.io/posts/1.html</id>
     <published>2021-07-18T14:00:00.000Z</published>
-    <updated>2021-07-31T18:28:29.330Z</updated>
+    <updated>2021-08-06T19:02:54.638Z</updated>
     
     
     <summary type="html">&lt;p&gt;这是第一篇用语雀写的博客&lt;/p&gt;</summary>
