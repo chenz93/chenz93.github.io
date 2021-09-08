@@ -6,7 +6,7 @@
   <link href="https://chenz93.github.io/atom.xml" rel="self"/>
   
   <link href="https://chenz93.github.io/"/>
-  <updated>2021-08-21T22:20:45.382Z</updated>
+  <updated>2021-09-08T17:53:24.607Z</updated>
   <id>https://chenz93.github.io/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>java环境变量</title>
+    <link href="https://chenz93.github.io/posts/5.html"/>
+    <id>https://chenz93.github.io/posts/5.html</id>
+    <published>2021-09-08T17:49:00.000Z</published>
+    <updated>2021-09-08T17:53:24.607Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;​&lt;/p&gt;
+&lt;p&gt;在 windows 上配置 java 环境变量&lt;br&gt;​&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="java" scheme="https://chenz93.github.io/categories/java/"/>
+    
+    
+    <category term="java" scheme="https://chenz93.github.io/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
     <title>GAN CFOP教程</title>
     <link href="https://chenz93.github.io/posts/2.html"/>
     <id>https://chenz93.github.io/posts/2.html</id>
     <published>2021-07-19T15:52:06.000Z</published>
-    <updated>2021-08-21T22:20:45.382Z</updated>
+    <updated>2021-09-08T17:53:24.627Z</updated>
     
     
     <summary type="html">&lt;p&gt;分享一个用了很久的层先和 CFOP 图片教程&lt;/p&gt;</summary>
@@ -46,7 +66,7 @@
     <link href="https://chenz93.github.io/posts/1.html"/>
     <id>https://chenz93.github.io/posts/1.html</id>
     <published>2021-07-18T14:00:00.000Z</published>
-    <updated>2021-08-21T22:20:45.398Z</updated>
+    <updated>2021-09-08T17:53:24.639Z</updated>
     
     
     <summary type="html">&lt;p&gt;这是第一篇用语雀写的博客&lt;/p&gt;</summary>
